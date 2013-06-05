@@ -1,0 +1,127 @@
+<html>
+<STYLE>
+<!--
+A{text-decoration: none;}
+-->
+</STYLE>
+<body>  
+<body id = "projects">
+<link rel="stylesheet" type="text/css" href="stylesheet.css" media="screen" /> 
+<div id = "container">	
+	<div id = "header">
+		<h1><a href = index.html><img src="images/logo1.jpg" width = "60" height = "60" align = 			"center"></a> NORA LANDIS-SHACK </h1> 
+	</div>
+	<div id = "nav">
+		<a href = "home.html"> ABOUT |	</a> <a href = "portfolio2.html"> 			<u>PORTFOLIO</u>	|	 </a> <a href = "projects2.html"> PROJECTS |	</a>	<a href = "resume.html"> RESUME	|	 </a> 	 <a href = 			"Contact.html"> CONTACT</a>
+	</div>
+	<div id = "projectcontainer">
+	<div class="projectRow">
+			<a href = "http://hercampus.com/author/nora-landis-shack"><img class="projectimage"<img src="images/hercampus.jpeg"></a>
+			<div class="projectinfo">
+				<h3 class="projectname" id="firstRow">THE SALUBRIOUS SENIOR</h3>
+					<p class = "projectbyline"><strong>HerCampus Haverford| <em>Weekly Column </em>| Fall 2012 to present </strong> <br> 
+					<p class="projectCopy"> 
+						A weekly column for the Haverford Chapter of HerCampus.com. HerCampus.com is the #1 online community for college women, written entirely by top college journalists from 200+ campus chapters across the country. The column provides healthy tips for college students, from eating right and exercising to fighting stress and staying motivated. Visit my <a href = "http://hercampus.com/author/nora-landis-shack"> Author's Page </a> or click on the links below for individual articles.
+						<table>
+						<tr>
+						<td>  
+						<p class = "projectlink"><a href = "http://hercampus.com/school/haverford/salubrious-senior-last-minute-diy-food-gifts-holidays" > DIY Food Gifts for the Holidays </a>  </td>
+						<td>
+						<p class = "projectlink"><a href = "http://hercampus.com/school/haverford/easy-exercises-finals-without-leaving-your-desk">Easy Exercises For Finals Without Leaving Your Desk  </a> 	</td>
+						<td> 
+						<p class = "projectlink"><a href = "http://hercampus.com/school/haverford/healthy-citrus-treats-winter"> Healthy Citrus Treats for Winter</a> </td>
+						<td> 
+						</tr>
+						<tr>
+						<td>
+						<p class = "projectlink"><a href = "http://hercampus.com/school/haverford/salubrious-senior-stress-busting-foods"> Stress Busting Foods </a> </td>
+						<td> 
+						<p class = "projectlink"><a href = "http://hercampus.com/school/haverford/salubrious-senior-healthy-tips-holidays"> Healthy Tips for the Holidays </a> </td>
+					</table>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id = "projectcontainer">
+	<div class="projectRow">
+			<a href = "http://hercampus.com/author/nora-landis-shack"><img class="projectimage"<img src="images/meat-on-a-stick-but-better.jpeg"></a>
+			<div class="projectinfo">
+				<h3 class="projectname" id="firstRow">BON APPETIT MAGAZINE</h3>
+					<p class = "projectbyline"><strong> <em> Recipe of the Day Posts/Self-Authored Piece </em>| Summer 2012 </strong> <br> 
+					<p class="projectCopy"> 
+						As an Editorial Intern for Bon Appetit, I was tasked with researching for and writing descriptions of daily recipe posts and also authored my own article.  Bon Appetit is one of the most widely read food publications in the USA.  Conde Nast, the home of Bon Appetit, accepts approximately 1% of applicants to its program each summer.  Click on the links below, or find links to my work <a href = "http://hercampus.com/author/nora-landis-shack">
+						<table>
+						<tr>
+						<td>  
+						<p class = "projectlink"><a href = "http://www.bonappetit.com/blogsandforums/blogs/badaily/2012/08/meat-on-a-stick-but-better.html" > We Actually Improved Meat on a Stick</a>  </td>
+						<td>
+						<p class = "projectlink"><a href = "http://www.bonappetit.com/blogsandforums/blogs/badaily/2012/08/too-many-tomatoes.html#ixzz27baEYTBA"> Too Many Tomatoes? Nah, No Such Thing. </a> 	</td>
+						<td> 
+						<p class = "projectlink"><a href = "http://www.bonappetit.com/blogsandforums/blogs/badaily/2012/07/tomato-chicken-supper.html#ixzz27baW9mPA"> Life's Crazy. Tomatoes Can Help</a> </td>
+						<td> 
+						</tr>
+						<tr>
+						<td>
+						<p class = "projectlink"><a href = "http://www.bonappetit.com/blogsandforums/blogs/badaily/2012/08/frozen-drinks.html"> Frozen Summer Drinks NOT From a Slushy Dispenser </a> </td>
+						<td> 
+						<p class = "projectlink"><a href = "http://www.bonappetit.com/blogsandforums/blogs/badaily/2012/07/smoked-fish-toast-appetizer-pa.html" > A Party Appetizer That&rsquo;s Not Red, White, and Blue Themed </a> </t>
+							<td>
+						<p class = "projectlink"><a href = "http://www.bonappetit.com/blogsandforums/blogs/badaily/2012/08/non-cleanse-juice-we-love.html#ixzz27baMy1Rs" > Juices We Love Even If We're Not Cleansing  </a> </t>
+					</table>
+				</p>
+			</div>
+		</div>
+	</div>
+	&nbsp
+	&nbsp
+	<div id = "projectcontainer">
+		<div class="projectRow">
+			<a href = "http://haverford.edu"><img class="projectimage"<img src="images/saveas.jpeg"></a>
+			<div class="projectinfosmall">
+				<h3 class="projectname" id="firstRow">HAVERFORD COLLEGE COMMUNICATIONS</h3>
+					<p class = "projectbyline"><strong> Haverford College Communications | <em>Blog Posts and News</em> | Fall 2011-present</strong> <br> 
+					<p class="projectCopy"> 
+						 In my work for Haverford College communications, I occasionally write short articles for the online newsletter or blog posts for students and parents to stay caught up on what&rsquo;s happening around campus. Please visit my work via the links below.
+						 &nbsp
+						 <br>
+						<table>
+						<tr>
+						<br>
+						<td>  
+						<p class = "projectlink"><a href = "http://news.haverford.edu/blogs/haverblog/2012/09/21/what-can-you-say-in-only-two-minutes/ " > What Can You Say In Only Two Minutes? </a>  </td>
+						<td>
+						<p class = "projectlink"><a href = "http://news.haverford.edu/blogs/haverblog/2011/12/01/the-aids-quilt-comes-to-campus/">The Aids Quilt Comes To Campus</a> 	</td>
+						<td> 
+						<p class = "projectlink"><a href = "http://news.haverford.edu/blogs/haverblog/2012/10/08/what-will-the-future-hold/"> What Will the Future Hold?</a> </td>
+						<td>
+					</table>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id = "projectcontainer">
+	<div class="projectRow">
+			<a href = "http://panys.org/"><img class="projectimage"<img src="images/dove.jpeg"></a>
+			<div class="projectinfo">
+				<h3 class="projectname" id="firstRow">PEACE ACTION NEW YORK STATE</h3>
+					<p class = "projectbyline"><strong> <em> Miscelaneous </em>| Summer 2011 </strong> <br> 
+					<p class="projectCopy"> 
+						Peace Action New York State (PANYS) is a non-profit that advocates for ending nuclear power and promoting peace.  As a Social Media Intern, I was responsible for blogging, one post of which is featured below, and also writing for the newsletter, also included. 
+						<table>
+						<tr>
+						<td>  
+						<p class = "projectlink"><a href = "http://panys.org/WordPress/2011/06/518/" > Taking the First Step </a>  </td>
+						<td>
+						<p class = "projectlink"><a href = "http://panys.org/WordPress/wp-content/uploads/2011/09/Newsletter-PDF-Summer-2011.pdf  ">PANYS Seasonal Newsletter</a> 	</td>
+						<td> 
+					</table>
+				</p>
+			</div>
+		</div>
+	</div>
+</div>
+<div id = "footer">
+   <p> &copy; 2013 Nora Landis-Shack </p>
+ </div>
+</body>
+<html>
