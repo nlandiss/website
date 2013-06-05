@@ -1,0 +1,87 @@
+<html>
+<STYLE>
+<!--
+A{text-decoration: none;}
+-->
+</STYLE>
+<body>  
+<body id = "projects">
+<link rel="stylesheet" type="text/css" href="stylesheet.css" media="screen" /> 
+<div id = "container">	
+	<div id = "header">
+		<h1><a href = index.html><img src="images/logo1.jpg" width = "60" height = "60" align = 			"center"></a> NORA LANDIS-SHACK </h1> 
+	</div>
+	<div id = "nav">
+		<a href = "home.html"> ABOUT |	</a> <a href = "portfolio2.html"> 			PORTFOLIO	|	 </a> <a href = "projects2.html"> <u>PROJECTS</u> |	</a>	<a href = "resume.html"> RESUME	|	 </a> 	 <a href = 			"Contact.html"> CONTACT</a>
+	</div>
+	<div id = "projectcontainer">
+	<div class="projectRow">
+			<a href = "http://www.commpro.biz/"><img class="projectimage"<img src="images/commpro.jpeg"></a>
+			<div class="projectinfosmall">
+				<h3 class="projectname2"id="firstRow">  HTML EMAIL ALERTS </h3>
+					<p class="projectCopy2"> 
+						I wrote and implemented HTML and CSS code to produce a new Email alert format for CommPRO.biz, a marketing new aggregate site. I used this formatting experience to produce two email alert examples during my week-long internship with the company. Please visit them via the links below.
+						<table>
+						<tr>
+						<td>  
+						<p class = "projectlink2"><a href = "Unicef3.html" > UNICEF Email Alert </a>  </td>
+						<td>
+						<p class = "projectlink2"><a href = "kent.html">Kent State Email Alert  </a> 	</td>
+						<td> 
+						</table>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id = "projectcontainer">
+	<div class="projectRow">
+			<a href = "http://noralandisshack.com/home.html"><img class="projectimage"<img src="images/graffiti.jpeg"></a>
+			<div class="projectinfosmall">
+				<h3 class="projectname2"id="firstRow">  NORA LANDIS-SHACK.COM </h3>
+					<p class="projectCopy2"> 
+						I designed, coded, and built this website from scratch, including writing all of the HTML and CSS code.  All background photos are my own work as well. This is my first integrative web design/coding project.
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id = "projectcontainer">
+	<div class="projectRow">
+			<a href = "http:/review.haverford.edu"><img class="projectimage"<img src="images/cover.jpeg"></a>
+			<div class="projectinfosmall">
+				<h3 class="projectname2" id="firstRow">THE HAVERFORD REVIEW</h3>
+					<p class="projectCopy2"> 
+						The Haverford Review is the only completely student run literary magazine on Haverford's Campus. I re-instituted the magazine as a presence on campus by compiling an editorial board, soliciting submissions from students, and organizing everything together with my design team into the beautiful finished product.  We are currently the only online magazine operating at Haverford. 
+				</p>
+			</div>
+		</div>
+	</div>
+	&nbsp
+	&nbsp
+	<div id = "projectcontainer">
+	<div class="projectRow">
+			<a href = "http://intern.condenast.com/"><img class="projectimage"<img src="images/intern.jpeg"></a>
+			<div class="projectinfosmall">
+				<h3 class="projectname2" id="firstRow">IN: The Conde Nast Intern Magazine</h3>
+					<p class="projectCopy2"> 
+						Each summer, the Interns of Conde Nast conceptualize, create, and produce a magazine of high quality.  I served as an editor, member of the design team, and member of the web team. 
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id = "projectcontainer">
+	<div class="projectRow">
+			<a href = "http://nyinparis.wordpress.com"><img class="projectimage"<img src="images/paris.jpeg"></a>
+			<div class="projectinfosmall">
+				<h3 class="projectname2" id="firstRow">A NEW YORKER IN PARIS</h3>
+					<p class="projectCopy2"> 
+						I was a student studying abroad in Paris. I think pictures speak better than words, so my blog tried to capture my experiences through my camera lens.  This project taught me a lot about blogging, gaining readers, and connecting with an audience.
+				</p>
+			</div>
+		</div>
+	</div>
+</div>
+<div id = "footer">
+   <p> &copy; 2013 Nora Landis-Shack </p>
+ </div>
+</body>
+<html>
