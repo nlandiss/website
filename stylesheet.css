@@ -1,0 +1,266 @@
+body {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	width: 90%;
+	margin: 0 auto;}
+body#homepage {
+	background: url("images/graffiti.jpeg");
+	background-position: 50%, 50%;
+	size: 50%, 50%;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 50px;
+	height: 100%;}
+#homenav {font-size: 32px;
+	font-weight: bolder;}
+a:link    {color:#554455;}
+a:visited {color:#AA775A;}
+a:hover   {color:#D4B064;}
+body#portfolio {background: url("images/seattlewheel.jpeg");
+	background-position: 50%, 50%;
+	image-size: 150%, 150%;/Users/noralandis-shack/Desktop/Website/images
+	background-repeat: repeat;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	height: 100%;
+	margin-bottom: 0px}
+
+body#projects {background: url("images/wburg.jpeg");
+	background-position: 50%, 50%;
+	image-size: 150%, 150%;
+	background-repeat: repeat;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	height: 100%;
+	margin-bottom: 0px}
+
+#spacer {
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+body#index {background: url("images/mosaic.jpeg");
+	background-position: 50%, 50%;
+	image-size: 50%, 50%;
+	background-repeat: no-repeat;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	height: 100%;
+	margin-bottom: 0px}
+
+body#contact {background: url("images/boxes.jpeg");
+	background-position: 50%, 50%;
+	image-size: 50%, 50%;
+	background-repeat: no-repeat;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	height: 100%;
+	margin-bottom: 0px}
+
+body#resume {background: url("images/forest.jpeg");
+	background-position: 50%, 50%;
+	image-size: 50%, 50%;
+	background-repeat: repeat;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	height: 100%;
+	margin-bottom: 0px}
+
+#container {background-color: #ffffff;
+		position: relative;
+		height: 90%;
+		margin: 4%;
+		border: 20px solid #ffffff;
+	overflow: auto;}
+	
+}
+#portcontainer {background-color: #ffffff;
+		height: 90%;
+		margin: 4%;
+		border: 20px solid #ffffff;
+	overflow: auto;}
+
+
+#contactcontainer {background-color: #ffffff;
+		height: 20em;
+		margin: 4%;
+		border: 20px solid #ffffff;
+	overflow: auto;}
+#content {overflow: auto;}
+
+#feature {	
+	margin: 1%;}
+
+.column14, .column15, .column16 {
+	width: 31.3%;
+	height: 20%;
+	float: left;
+	margin: 1%;
+	text-align: center;}
+.column1, .column2, .column3 {
+	width: 31.3%;
+	float: left;
+	margin: 1%;
+	text-align: center;}
+.column4, .column5, .column6, .column7, .column8 {
+	width: 17.9%;
+	float: left;
+	margin: 1%;
+	text-align: center;
+	font-size: 18px;}
+.column9 {
+	width: 98%; 
+	height: 10em;
+	float: left;
+	margin: 1%;
+	text-align: center;}
+.column10, .column11 {
+	position: relative;
+	left: 125px;
+	width: 33.3%;
+	float: left;
+	margin: 1%;
+	text-align: center;}
+.column12 {
+	position: relative;
+	left: 200px;
+	width: 50.9%;
+	float: left;
+	margin: 1%;
+	text-align: center;}
+
+.column8 {margin-right: 0%; }
+.column3 {margin-right: 0%;}
+li {
+	dislpay: inline;
+	padding: 0.5em;}
+#nav,  {
+	padding: 1em 10;
+	height: 3em;}
+#nav {
+	word-spacing: 10px;
+	text-align: left;}
+
+#feature, .article {
+  height: 15em;
+  margin-bottom: 1em;
+  background-color: #FAFAE4; 
+  background-opacity: .04;
+  text-align: center; }
+
+#feature1{
+background-color: #FAFAE4; 
+ background-opacity: .04;
+ text-align: center; 
+height: 7em;
+margin-bottom: .5em;
+}
+
+#feature {height: 10em;}
+.fullarticle {
+	height: 14em;
+}
+#footer {
+	color: #efefef;
+	margin-left: 4%;
+}
+
+#slideshow {
+    position:relative;
+    height:350px;
+}
+
+#slideshow IMG {
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:8;
+}
+
+#slideshow IMG.active {
+    z-index:10;
+}
+
+#slideshow IMG.last-active {
+    z-index:9;
+}
+
+.projectimage {
+width: 220px;
+float: left;
+border: black solid 2px;
+height: 162px;
+}
+
+.projectinfo {
+margin-left: 240px;
+height: 162px;
+margin-top: 30px;}
+
+
+#firstRow {
+margin-top: 15px;
+}
+
+h3.projectName {
+margin-bottom: 0px;
+font-weight: normal;
+font-size: 20px;
+color: white;
+background: #436A9A;
+padding-left: 7px;
+border-spacing: 10%;
+font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;;
+}
+p.projectbyline {
+	margin-bottom: 3px;
+	margin-top: 3px;
+	color: black;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+p.projectCopy {
+margin-top: 5px;
+padding-left: 10px;
+padding-right: 10px;
+margin-bottom: 6px;
+color: black;
+font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+font-size: 14px;
+}
+
+p.projectlink {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 13px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 0px;
+}
+
+.projectinfosmall {
+margin-left: 240px;
+height: 162px;
+margin-top: 0px;}
+
+
+h3.projectName2 {
+margin-bottom: 0px;
+font-weight: normal;
+font-size: 20px;
+color: white;
+background: #554455;
+padding-left: 7px;
+border-spacing: 10%;
+font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;;
+}
+
+p.projectCopy2 {
+margin-top: 5px;
+padding-left: 10px;
+padding-right: 10px;
+margin-bottom: 0px;
+color: black;
+font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+font-size: 16px;
+}
+
+p.projectlink2 {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 13px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 0px;
+}
+
+
