@@ -1,0 +1,76 @@
+<html>
+<STYLE>
+<!--
+A{text-decoration: none;}
+-->
+</STYLE>
+<body>  
+<body id = "resume">
+<link rel="stylesheet" type="text/css" href="stylesheet.css" media="screen" /> 	
+<div id = "container">
+	<div id = "header">
+		<h1><a href = index.html><img src="images/logo1.jpg" width = "60" height = "60" align = 			"center"></a> NORA LANDIS-SHACK </h1> 
+	</div>
+	<div id = "nav">
+		<a href = "home.html"> ABOUT |	</a> <a href = "portfolio2.html"> 			PORTFOLIO	|	 </a> <a href = "projects2.html"> PROJECTS |	</		a>	<a href = "resume.html"> <u>RESUME </u>	|	 </a> 	 <a href = 			"Contact.html"> CONTACT</a>
+	</div>
+	<p>
+	<h3> EDUCATION </h3>
+	<p><strong>HAVERFORD COLLEGE</strong>| Haverford, Pennsylvania | BS expected May 2013
+	<br>
+	<strong> Major:</strong> Psychology with concentration in Peace Justice studies	
+		<br>				
+	<strong>Minor:</strong> French Language
+	<br>
+	<strong>GPA: </strong> 3.6
+	<strong>UNIVERSITE SORBONNE-NOUVELLE </strong> | Paris, France | Spring Semester 2012 </p>
+	<h3>RELATED EXPERIENCE</h3>
+
+	</p>
+	<strong>Staff Writer-HerCampus Haverford</strong> | HerCampus.com | Haverford College | Haverford, PA | Fall 2012-present
+	<li>
+	Manages The Salubrious Senior health and wellness column, producing one to two articles a week. (see articles in <a href= "portfolio.html"> my Portfolio)</a> 
+	</li>
+	<br>
+	<strong>Editorial Intern-Bon Appetit Magazine</strong>| Conde Nast Publications | New York, NY |Summer 2012
+	<li> Contributing editor for Food section and member of web development team for IN, the intern magazine. </li>
+	<li>Wrote and published online features, including short write-ups for website. Researched monthly and daily features. Compiled database for national supermarkets and product availability. </li>
+	<li> Filed expense reports, found photos and obtained image permissions, and assisted with photo-shoots. </li>
+	<li> Attended weekly lectures by Conde Nast employees on marketing, advertising, and technology. </li>
+	<br>
+	<strong>Board Member-Student Class Gift Committee</strong> | Haverford College | Haverford, PA | Fall 2012-present
+	<li>Developed fundraising strategies, solicited and managed donations to be given by the class of 2013 
+	to Haverford College via the Annual Fund, planed and hosted class-wide fundraising events.</li>
+	<br>
+	<strong>Member/Digital Management-Study Abroad Board </strong> | Haverford College | Haverford, PA |Fall 2012-present
+	<li> Advised on selection of Study Abroad programs, planned and led orientation sessions. </li>
+	<li> Developed visual content for program&rsquo;s advertising and outreach. </li>
+	<br>
+	<strong> Editor-in-Chief-The Haverford Review </strong> Haverford College | Haverford, PA | Summer 2011-present
+	<li> Reinvented student-run literary magazine, developed <a href= "http://review.haverford.edu"> new online format </a> and marketing plan </li>
+	<li>Managed budget, weekly meetings, staff, and publication on website and in print, gaining over 40,000 unique views this past month with release of newest issue in December.  </li>
+	<br>
+	<strong>Communications Intern-Haverford Communications </strong> | Haverford College | Haverford, PA | Fall 2011-present
+	<li> Researched, wrote, proofread, and edited blog posts, alumni magazine features, and admissions material. </li>
+	<li> Edited code for various projects on Haverford&rsquo;s website.  Managed and contributed to photo databases. </li>
+	<br>
+	<strong> Media Outreach Intern-Peace Action New York</strong> | New York, NY | Summer 2011
+	<li> Independent projects including: expanding social media following by 32.5%; writing press 
+	Releases and blog posts; updating website and newsletter; and compiling databases of press contacts. </li> </p>
+	<h3> LEADERSHIP, SERVICE, AND OTHER EXPERIENCE </h3>
+	<p>
+	<strong>Co-Chair- Haverford Pre-Law Society</strong> | Haverford College | Haverford, PA | Fall 2011-present 	
+	<br>
+	<strong>Club Head- Poetry Reading Group</strong> | Haverford College | Haverford, PA | Fall 2011-present
+	<br>
+	<strong> Cashier- Haverford College Bookstore </strong> |  Haverford College | Haverford, PA | Fall 2009-present </p>	 
+	 
+	<h3> LANGUAGES: </h3>  <p> French (fluent), HTML, CSS, Python </p>
+	<h3> ADDITIONAL SKILLS: </h3> <p> Research, SPSS Statistic Analysis, Social and Online Media, Website Building, Editing, Writing, MS Office, Apple Life Suite, Layout, DSLR Photography, Adobe Photoshop, Basic Programming, Wordpress </p>
+	</div>
+</div>
+</div>
+<div id = "footer">
+   <p> &copy; 2013 Nora Landis-Shack </p>
+ </div>
+</body>
