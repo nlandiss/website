@@ -1,0 +1,51 @@
+<! DOCTYPE HTML>
+<html>
+<STYLE>
+<!--
+A{text-decoration: none;}
+-->
+</STYLE>
+<body>
+<body id = "index">
+<div id ="container">
+<link rel="stylesheet" type="text/css" href="stylesheet.css" media="screen" />   
+  <div id= "header">
+    <h1> <a href = index.html><img src="images/logo1.jpg" width = "60" height = "60" align = 			"center"></a>  	NORA LANDIS-SHACK </h1> </div>
+    <div id="nav">
+	<p>
+        <a href = "home.html"> <u>ABOUT</u> |	</a> <a href = "portfolio2.html"> PORTFOLIO	|	 </a> <a href = "projects2.html"> PROJECTS |	</a>	<a href = "resume.html"> RESUME	|	 </a> 	 <a href = "Contact.html"> CONTACT</a></p>	
+    </div>
+ <div id ="content">
+   <div id ="feature1">
+	<br>
+	<p> Hi! I'm Nora! I'm an semi-legitimate adult finishing up my liberal arts education and getting ready to enter the real world.  I'm a writer, a foodie, a critic, a photographer, and a budding web designer, programmer, and social media marketer.  <br> <p>
+    </div>
+  <h2><p align = "center"> Every Day I Try To: </h2>
+  <div class ="article column1" style="height: 10em">
+	<h4>  </h4>
+	<p> Become a better programmer and be on the cutting edge of understanding and developing new technology
+<br>
+<br>
+See some of the <a href = "projects2.html"> Projects </a> I've worked on.</p>
+  </div>
+  <div class="article column2" style="height: 10em">
+	<p> Learn something new, whether it's a new programming concept, how to improve my use of social media, understanding a new camera setting, or trying an interesting recipe.
+<br>
+<br>
+Feel free to browse my <a href = "portfolio2.html">Portfolio</a>. 
+  </p>
+  </div>
+  <div class="article column3" style="height: 10em">
+	<p> Make a life doing what I love, whatever that turns out to be.
+<br>
+<br>  Take a look at my <a href = "resume.html"> Resume	</a> to see my professional experience so far.  </p>
+  </div>
+ </div>
+  <div class = "background"> </div>
+</div>
+
+ <div id = "footer">
+   <p> &copy; 2013 Nora Landis-Shack </p>
+ </div>
+</body>
+<html>
