@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html>
+<STYLE>
+<!--
+A{text-decoration: none;}
+-->
+</STYLE>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" media="screen" /> 
+<body id = "homepage">
+<div style = "position: absolute; top:20; right:10; 5px; padding: 20px; height: 50px; text-align: right"> 
+<body><strong><a style= "color: #000000" href= "home.html">Nora Landis-Shack</a></strong>
+   <div id="homenav">
+	 <div style = "position: absolute; top: 290; right: 10; 5px; padding: 20px; height: 50px; size: 20px; text-align: right";>
+	<p>
+     <a style = "color: #000000" href = "home.html"> ABOUT </a> <br> <a style = "color: #000000" href = "portfolio2.html"> PORTFOLIO</a> <br> <a style = "color: #000000" href = "projects2.html"> PROJECTS </a> <br> <a style = "color: #000000" href = "resume.html"> RESUME </a> <br> <a style = "color: #000000" href = "Contact.html"> CONTACT</a></p>	
+    </div>
+</div>
+</body>
+</html>
+
